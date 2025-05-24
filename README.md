@@ -31,7 +31,7 @@ Deployment
 The project is deployed via Streamlit Community Cloud.
 
 visit my app👇
-maddys-aiproject.streamlit.app
+https://avi-ml-project.streamlit.app/
 
 Files included:
 • app.py - Main Streamlit app
