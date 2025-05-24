@@ -24,6 +24,7 @@ Model Workflow
 5. Evaluate using test data
 6. Plot Predictions
 7. Visualization
+   
 The final visualization is built using matplotlib and integrated into a Streamlit app. The plot compares actual and predicted prices using a clear line chart.
 
 Deployment
